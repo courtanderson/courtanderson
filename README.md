@@ -1,6 +1,6 @@
 ## Hi
 - 🔭 I’m currently working on SLAM and data handling for the BlueROV2
-- - 🌱 I’m currently learning everything...
+- 🌱 I’m currently learning everything...
 
 
 <!--
