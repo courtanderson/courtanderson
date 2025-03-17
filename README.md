@@ -1,4 +1,4 @@
-## Hi
+## Hi there
 - 🔭 I’m currently working on SLAM and data handling for the BlueROV2
 - 🌱 I’m currently learning everything...
 
